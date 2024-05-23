@@ -1,5 +1,6 @@
-# school-district-data
-Exports from urban.org
+# School District Data from NCES
+Public school data is exported from urban.org
+Private school data is downloaded from [nces](https://nces.ed.gov/surveys/pss/pssdata.asp)
 
 
 # Schema for Schools
