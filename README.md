@@ -3,7 +3,7 @@
 Public school data is exported from urban.org
 Private school data is downloaded from [nces](https://nces.ed.gov/surveys/pss/pssdata.asp)
 
-## Schema for Schools
+## Schema for US Private and Public Schools
 
 | name                                                | field_type         |
 | --------------------------------------------------- | ------------------ |
@@ -90,7 +90,7 @@ Private school data is downloaded from [nces](https://nces.ed.gov/surveys/pss/ps
 | titleIStatus                                        | Null OR String     |
 | urbanCentricLocale                                  | String             |
 
-## Schema for LEAs
+## Schema for US LEAs
 
 (Local Education Agencies)
 
